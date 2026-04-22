@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Python environments and caches
+.venv/
+venv/
+venv-py314-backup/
+venve/
+__pycache__/
+*.py[cod]
+
+# Local backups
+visualizer_backup_20260417/
+
+# Older experiments / non-showcase scripts
+read_clap.py
+hear_error.py
+test_visualizer.py
