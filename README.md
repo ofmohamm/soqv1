@@ -7,7 +7,7 @@ The system uses Kinect v1 microphone audio to estimate left/right source directi
 ## Hardware
 
 - XBox Kinect 360
-- Arduino-compatible controller
+- Arduino-compatible micro controller (Itsy Bitsy M4 in our case)
 - Adafruit BNO055 IMU
 - Pan servo
 - Host computer with USB access to Kinect and controller
